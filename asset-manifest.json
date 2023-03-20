@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/restaurant-app/static/css/main.22612dab.css",
+    "main.js": "/restaurant-app/static/js/main.be59a53a.js",
+    "static/media/pakoda.jpg": "/restaurant-app/static/media/pakoda.df7e426605708830bccb.jpg",
+    "static/media/pizza.jpg": "/restaurant-app/static/media/pizza.87be1040584e43e303da.jpg",
+    "static/media/rajmarice.jpg": "/restaurant-app/static/media/rajmarice.d2208559ee6a45e6ad0a.jpg",
+    "static/media/non-veg.jpg": "/restaurant-app/static/media/non-veg.319f76aaae3b73498734.jpg",
+    "static/media/maggi.jpg": "/restaurant-app/static/media/maggi.d89ad27568fb817a588c.jpg",
+    "static/media/corn.jpg": "/restaurant-app/static/media/corn.978426ba90298f1ade46.jpg",
+    "static/media/banner.avif": "/restaurant-app/static/media/banner.caf7926ae331f08be6a5.avif",
+    "static/media/chola.jpg": "/restaurant-app/static/media/chola.fbce4b16721c7bb14606.jpg",
+    "static/media/sweets.jpg": "/restaurant-app/static/media/sweets.75b7d1afeff1d1f1d213.jpg",
+    "static/media/samosa.jpg": "/restaurant-app/static/media/samosa.8a8078982cbe640f78bc.jpg",
+    "index.html": "/restaurant-app/index.html",
+    "main.22612dab.css.map": "/restaurant-app/static/css/main.22612dab.css.map",
+    "main.be59a53a.js.map": "/restaurant-app/static/js/main.be59a53a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22612dab.css",
+    "static/js/main.be59a53a.js"
+  ]
+}
